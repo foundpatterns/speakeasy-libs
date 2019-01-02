@@ -2,6 +2,7 @@ imports = {
    ansicolors = ".",
    underscore = ".", 
    base64 = ".",
+   log = ".",
 }
 
 ansicolors = {
@@ -18,5 +19,9 @@ base64 = {
     url = "https://github.com/foundpatterns/lua-base64",
     pluck = "base64.lua",
 }
- 
+
+log = {
+    url = "https://github.com/foundpatterns/log.lua",
+    pluck = "log.lua",
+}
 
