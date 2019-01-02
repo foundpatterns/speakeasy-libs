@@ -1,7 +1,7 @@
 imports = { 
-   ansicolors = "third-party/",
-   underscore = "third-party/", 
-   base64 = "third-party/",
+   ansicolors = ".",
+   underscore = ".", 
+   base64 = ".",
 }
 
 ansicolors = {
