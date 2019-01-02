@@ -1,0 +1,22 @@
+imports = { 
+   ansicolors = "third-party/",
+   underscore = "third-party/", 
+   base64 = "third-party/",
+}
+
+ansicolors = {
+    url = "https://github.com/kikito/ansicolors.lua",
+    pluck = "ansicolors.lua",
+}
+
+underscore = {
+    url = "https://github.com/mirven/underscore.lua",
+    export = "lib",
+}
+
+base64 = {
+    url = "https://github.com/foundpatterns/lua-base64",
+    pluck = "base64.lua",
+}
+ 
+
