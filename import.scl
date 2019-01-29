@@ -4,6 +4,7 @@ imports = {
    base64 = ".",
    log = ".",
    fs-extras-lua = ".",
+   file-patcher = ".",
 }
 
 ansicolors = {
@@ -29,5 +30,10 @@ log = {
 fs-extras-lua = {
     url = "https://github.com/foundpatterns/fs-extras-lua",
 	export = ".",
+}
+
+file-patcher = {
+    url = "https://github.com/aleksanderwlodarczyk/file-patcher",
+    pluck = "file-patcher",
 }
 
