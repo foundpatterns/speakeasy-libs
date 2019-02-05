@@ -28,6 +28,6 @@ log = {
 
 fs-extras-lua = {
     url = "https://github.com/foundpatterns/fs-extras-lua",
-	export = ".",
+    export = ".",
 }
 
